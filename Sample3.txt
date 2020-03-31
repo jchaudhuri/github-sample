@@ -1,2 +1,0 @@
-This is my first sample code
-I am a java developer, learning devopps
