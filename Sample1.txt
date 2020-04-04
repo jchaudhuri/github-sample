@@ -1,2 +1,4 @@
 This is my first sample code
-I am a java developer, learning devopps
+I am a java developer, learning devopps for my learning and better carrier prospects.
+
+I am developing the gaming software for the word
